@@ -1,0 +1,52 @@
+.Appl{
+    background-color: aliceblue;
+}
+
+
+/* #sinopse{
+    width: 50px;
+} */
+
+td > img{
+    width: 150px;
+    height: 200px;
+}
+
+.height{
+    height:100vh;
+}
+
+/* #logotipo{
+    
+} */
+
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#Link{
+    text-decoration:none;
+    font-size: 25px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Link:hover{
+    text-decoration:underline;
+    font-size: 25px;
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#ihhmiga{
+    display: flex;
+    justify-content: center;
+}
+
+#oi {
+    font-size: 25px;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
